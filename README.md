@@ -55,13 +55,13 @@ polyglot/
 ```
 
 ## 🧰 Slash Commands
-- `/add_translate_channel` – Add a text channel for translation  
-- `/remove_translate_channel` – Remove a translation channel  
-- `/list_translate_channels` – List configured translation channels  
-- `/add_translate_language` – Add a target language  
-- `/remove_translate_language` – Remove a previously added language  
-- `/list_translate_languages` – List available languages  
-- `/set_locale` – Set the bot’s interface language for this server
+- `/add_translate_channel` – Add a text channel for translation.
+- `/remove_translate_channel` – Remove a translation channel.
+- `/list_translate_channels` – List configured translation channels.
+- `/add_translate_language` – Add a target language.
+- `/remove_translate_language` – Remove a previously added language.
+- `/list_translate_languages` – List available languages.
+- `/set_locale` – Set the bot’s interface language for this server.
 
 ## ⚙️ Configuration
 ### 🔐 .env File Example
